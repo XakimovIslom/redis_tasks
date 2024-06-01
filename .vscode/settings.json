@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.mouseWheelZoom": false,
+    "editor.mouseWheelZoom": true,
+    "editor.fontSize": 15,
+    "editor.fontWeight": "normal",
+    "editor.fontVariations": true,
+    "editor.fontLigatures": false,
+    "window.zoomLevel": 1.5,
+    "terminal.integrated.fontSize": 14
+}
